@@ -2,14 +2,14 @@
 
 **Contribution Number:** [1 / 2 / 3]  
 **Student:** [Jude Surin]  
-**Issue:** [GitHub issue link]  
+**Issue:** [Display most "famous" projects in the website]  
 **Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+[I chose this issue to update my website and create an updated personal portfolio.]
 
 ---
 
@@ -17,33 +17,33 @@
 
 ### Problem Description
 
-[In your own words, what's broken or missing?]
+[Currently, my website doesn't have my most recent famous projects and I would like to make it lively including pictures, images, and projects.]
 
 ### Expected Behavior
 
-[What should happen?]
+[The Website should show my projects from internships such as AWS, Netflix, and Nordstrom.]
 
 ### Current Behavior
 
-[What actually happens?]
+[It shows my current projects but doesn't animate nor show anything eye catching.]
 
 ### Affected Components
 
-[Which parts of the codebase are involved?]
+[Mainly the index.ht file]
 
 ---
 
 ## Reproduction Process
-
+[I'm starting a new creation to build a better website while ensuring to test for new showcasing of the projects.]
 ### Environment Setup
 
-[Notes on setting up your local development environment - challenges you faced, how you solved them]
+[So far, no issues faced setting up the enviornment. I was able to get VS Code up and running.]
 
 ### Steps to Reproduce
 
-1. [Step 1]
-2. [Step 2]
-3. [Observed result]
+1. [Create a new file for index.html and add image files]
+2. [ Apply Rust, Python, and HTML/CSS/ & React.js to test it out for AI/ML and Web Development.]
+3. [In process.]
 
 ### Reproduction Evidence
 
